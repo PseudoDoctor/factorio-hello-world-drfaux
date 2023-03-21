@@ -1,0 +1,13 @@
+{
+    "name": "hello-world-drfaux",
+    "version": "0.0.4",
+    "title": "Hello World from Dr Faux",
+    "author": "Dr Faux",
+    "factorio_version": "1.1",
+    "dependencies": [
+        "base >= 1.1.0",
+        "? aai-vehicles-chaingunner >= 0.6.1",
+        "? aai-vehicles-warden >= 0.5.3",
+        "? aai-vehicles-hauler >= 0.6.1"
+    ]
+}
