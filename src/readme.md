@@ -9,3 +9,6 @@ no, that commit was signed from command line by forcing tty which prompted for p
 
 Started gpg-agent and attempting cli commit
 `GIT_TRACE=1 git commit -a`
+
+That seemed to work
+Let's try from vscode.
